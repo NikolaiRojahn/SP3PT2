@@ -49,7 +49,7 @@ public class FacadeTest {
     }
     
 
-    //GENNEMGÅ MED LARS!!!!!
+    //GENNEMGÅ MED LARS!!!!!!!!
 //    @Test
 //    public void testGetCarById() {
 //        Car car = facade.getCarById(1);
